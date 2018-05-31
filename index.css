@@ -1,0 +1,105 @@
+/*
+
+CREATED BY GUIDO FRANCIS, ALL RIGHTS RESERVED [ CLASS III ]
+
+*/
+
+hr {
+    border-top: 4px solid #99DE6D;
+    border-bottom: 0px;
+}
+
+p {
+  text-align: justify;
+      text-justify: inter-word;
+}
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+body {
+ font-family: 'Roboto', sans-serif;
+ margin: 0px;
+ background-color: #F6F6F6;
+}
+
+a {
+  text-decoration: none;
+  color: ;
+}
+
+right {
+ float: right;
+}
+
+left {
+ float: left;
+}
+
+/* NOTICE */
+
+.ntice {
+ overflow: hidden;
+ background-color: #99DE6D;
+}
+
+.ntice p {
+  float: left;
+  padding: 14px 16px;
+  color: white;
+  width: 100%;
+}
+
+/* TOP NAVIGATION */
+
+.topnv {
+  overflow: hidden;
+  background-color: #A0E971;
+}
+
+.topv p {
+  float: left;
+  color: black;
+  padding: 14px 16px;
+  font-size: 14px;
+}
+
+.topnv left {
+ float: left;
+}
+
+.topnv a {
+  float: right;
+  color:  #F6F6F6;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+  display: inline-block;
+}
+
+.topnv a:hover {
+ color: white;
+}
+
+
+/* TABS */
+
+.itab {
+ margin: 100px;
+ width: 1100px;
+ text-align: justify;
+text-justify: inter-word;
+ height: 800px;
+ background-color: #A0E971;;
+}
+
+.itab p {
+  text-align: justify;
+  text-justify: inter-word;
+  margin: 10px;
+  color: white;
+}
+
+/* NAV */
